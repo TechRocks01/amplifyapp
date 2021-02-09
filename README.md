@@ -1,1 +1,1 @@
-# react_app
+# amplify_app
