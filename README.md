@@ -1,1 +1,1 @@
-# amplify_app
+# amplifyapp
